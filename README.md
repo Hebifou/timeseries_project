@@ -30,6 +30,4 @@ The goal is to explore temporal patterns (trend, seasonality, noise) and predict
 ![SARIMA Forecast](reports/sarima_forecast.png)
 ![Prophet Forecast](reports/prophet_forecast.png)
 
----
 
-## Repository Structure
